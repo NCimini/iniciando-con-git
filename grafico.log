@@ -1,0 +1,23 @@
+*   987dbb1 Solucionando conflictos entre el repositorio local y el remoto
+|\  
+| * b2116d9 Agregando estaciones del año
+* | 8677faa Agregando estaciones del año con fecha  de inicio
+|/  
+* 310f79b Resolviendo conflicto merge main/html en index.html
+*   f014d6b Resolviendo conflicto merge main/html en index.html
+|\  
+| * 369bdfa agregando script.js al index.html
+* | b5142ed Agregando style.css al index.html
+* | 804a889 unificando ramas
+* |   d458a2c Merge branch 'js'
+|\ \  
+| * | 65a539c Creando script.js
+* | | 4ead5eb Creando style.css
+| |/  
+|/|   
+* | e8504af Creando index.html
+|/  
+* 512deb5 Agregando contenido al gitignore
+* 225d12c Agregando contenido al readme
+* 1db8504 Agregando contenido inicial al README
+* db7e87d Creando los archivos README y gitignore

@@ -1,0 +1,98 @@
+commit 987dbb1089c4883888fceb2fbc769e23410173a3
+Merge: 8677faa b2116d9
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Mon Jan 29 08:32:33 2024 -0300
+
+    Solucionando conflictos entre el repositorio local y el remoto
+
+commit 8677faaa5955732c2f3472c3db09c3cc7bac1123
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 08:13:32 2024 -0300
+
+    Agregando estaciones del año con fecha  de inicio
+
+commit b2116d95a31076d76457fb49f0f87312473374bd
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 08:13:32 2024 -0300
+
+    Agregando estaciones del año
+
+commit 310f79bc7b741b64c824e26415b1c48a6928cae1
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 08:01:24 2024 -0300
+
+    Resolviendo conflicto merge main/html en index.html
+
+commit f014d6b04bfbc90fd96d3bb37e18a304074afd91
+Merge: b5142ed 369bdfa
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 08:00:50 2024 -0300
+
+    Resolviendo conflicto merge main/html en index.html
+
+commit 369bdfa2e16bf34a9ceac6037c2a3e214940c4b1
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 07:50:22 2024 -0300
+
+    agregando script.js al index.html
+
+commit b5142ed193e810ac6cf1464fd44fb786e742cfc8
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Fri Jan 26 07:45:02 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 804a8890bc337afe65020f4ae6052d430c4e92a7
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Thu Jan 25 07:56:14 2024 -0300
+
+    unificando ramas
+
+commit d458a2c4037ba9d12250353a4fd140c9ffe147a7
+Merge: 4ead5eb 65a539c
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Thu Jan 25 07:44:44 2024 -0300
+
+    Merge branch 'js'
+
+commit 65a539ccdd86364a4870e069ba5a1c3719d063b4
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Wed Jan 24 08:29:46 2024 -0300
+
+    Creando script.js
+
+commit 4ead5ebcd7fce981adc90852a12ff8ec297591cb
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Wed Jan 24 08:22:12 2024 -0300
+
+    Creando style.css
+
+commit e8504afc6268ff4d97527d73816e1a34772ae69b
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Wed Jan 24 08:10:41 2024 -0300
+
+    Creando index.html
+
+commit 512deb5c4a425858a1d1df22cb9f3c895077e04f
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Wed Jan 24 07:38:18 2024 -0300
+
+    Agregando contenido al gitignore
+
+commit 225d12ca1d10db3d928dbe9750cdc6a0c1af8043
+Author: NestorCimini <ncimini@hotmail.com.ar>
+Date:   Sun Jan 21 09:46:26 2024 -0300
+
+    Agregando contenido al readme
+
+commit 1db850489f0c83b0c58902e01e0e7d35fa2ac1ae
+Author: NestorCimini <cimini.nestor@gmail.com>
+Date:   Sun Jan 21 08:54:32 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit db7e87dccd1146351d3383f5a3d9da56ea756e2c
+Author: NestorCimini <cimini.nestor@gmail.com>
+Date:   Sun Jan 21 08:48:46 2024 -0300
+
+    Creando los archivos README y gitignore
